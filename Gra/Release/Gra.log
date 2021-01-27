@@ -1,0 +1,19 @@
+﻿  main.cpp
+F:\Codeblocks\pwdp\Gra\Gra\Gra\main.cpp(65,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  plansza.cpp
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(20,38): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(20,52): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(34,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(35,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(146,20): warning C4305: "=": obcięcie z "double" do "float"
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(193,24): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(253,19): warning C4305: "=": obcięcie z "double" do "float"
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(301,35): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(302,35): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+F:\Codeblocks\pwdp\Gra\Gra\Gra\plansza.cpp(245): warning C4715: "okno”: niewszystkie ścieżki kodu zwracają wartość
+  7 of 157 functions ( 4.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Gra.vcxproj -> F:\Codeblocks\pwdp\Gra\Gra\Release\Gra.exe
